@@ -2,7 +2,7 @@
 
 PyTorch implementation of our CVPR2019 paper:
 
-'Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization' [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lian_Density_Map_Regression_Guided_Detection_Network_for_RGB-D_Crowd_Counting_CVPR_2019_paper.pdf)]
+##'Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization'## [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lian_Density_Map_Regression_Guided_Detection_Network_for_RGB-D_Crowd_Counting_CVPR_2019_paper.pdf)]
 [[poster](images/poster.pdf)]
 
 Dongze Lian*, Jing Li*, Jia Zheng, Weixin Luo, Shenghua Gao
