@@ -17,6 +17,17 @@ Dongze Lian*, Jing Li*, Jia Zheng, Weixin Luo, Shenghua Gao
 # The ShanghaiTechRGBD dataset
 Download our ShanghaiTechRGBD dataset: [OneDrive](https://dzkd-my.sharepoint.com/:f:/g/personal/dongzelian_onepan_top/Emx65sLijCNOmeif6rbC4yQBfl6QSijGvRbdvfcqiTl_1A?e=slmWOB)
 
+```
+ShanghaiTechRGBD/
+├── train_data
+    ├── train_img/*.png
+    ├── train_depth/*.mat
+    └── train_gt/*.mat
+└── test_data
+    ├── test_img/*.png
+    ├── test_depth/*.mat
+    └── test_bbox_anno/*.mat
+```
 
 # Usage
 
