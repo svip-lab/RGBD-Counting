@@ -15,15 +15,15 @@ Dongze Lian*, Jing Li*, Jia Zheng, Weixin Luo, Shenghua Gao
 - torchvision: 0.2+
 
 # The ShanghaiTechRGBD dataset
-Download our ShanghaiTechRGBD dataset: [OneDrive](https://dzkd-my.sharepoint.com/:f:/g/personal/dongzelian_onepan_top/Emx65sLijCNOmeif6rbC4yQBfl6QSijGvRbdvfcqiTl_1A?e=slmWOB)
+Download our ShanghaiTechRGBD dataset: [OneDrive](https://yien01-my.sharepoint.com/:f:/g/personal/doubility_z0_tn/EhY4Svr1rRlDi7apZTtpepQBHI7fsLFsclR0t4G-q6ugtA?e=zHVs5z) or [BaiduPan](https://pan.baidu.com/s/1Loet9ekp_oYD1xT7y7wv5g) (Code: 5luu)
 
 ```
 ShanghaiTechRGBD/
-├── train_data
+├── train_data/
     ├── train_img/*.png
     ├── train_depth/*.mat
     └── train_gt/*.mat
-└── test_data
+└── test_data/
     ├── test_img/*.png
     ├── test_depth/*.mat
     └── test_bbox_anno/*.mat
