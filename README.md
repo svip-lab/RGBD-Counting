@@ -15,7 +15,7 @@ Dongze Lian*, Jing Li*, Jia Zheng, Weixin Luo, Shenghua Gao
 - torchvision: 0.2+
 
 # The ShanghaiTechRGBD dataset
-Download our ShanghaiTechRGBD dataset: [OneDrive](https://yien01-my.sharepoint.com/:f:/g/personal/doubility_z0_tn/EhY4Svr1rRlDi7apZTtpepQBHI7fsLFsclR0t4G-q6ugtA?e=zHVs5z) or [BaiduPan](https://pan.baidu.com/s/1Loet9ekp_oYD1xT7y7wv5g) (Code: 5luu)
+Download our ShanghaiTechRGBD dataset: [OneDrive](https://dzkd-my.sharepoint.com/:f:/g/personal/dongzelian_onepan_top/Emx65sLijCNOmeif6rbC4yQBfl6QSijGvRbdvfcqiTl_1A?e=slmWOB)
 
 ```
 ShanghaiTechRGBD/
@@ -28,6 +28,10 @@ ShanghaiTechRGBD/
     ├── test_depth/*.mat
     └── test_bbox_anno/*.mat
 ```
+Some explanations of data preprocessing:
+
+The metric of depth is millimeter. The max covered depth value of depth sensor is 20 meters, which means the normal range of depth value should be 0-20,000. -999 means the depth value at this point is out of range. Only a few points are above 20,000 in an depth image, which can be the inherent problem of depth sensor resulted from occlusion or illumination, etc. Therefore, we cut off [0, 20,000] for the whole depth image as the valid depth value and set values at other pixels as 30,000. It is an empirical setting through the observing for image. After that, we normalize the depth image through dividing 20,000. 
+
 
 # Usage
 
