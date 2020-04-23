@@ -15,7 +15,7 @@ Dongze Lian*, Jing Li*, Jia Zheng, Weixin Luo, Shenghua Gao
 - torchvision: 0.2+
 
 # The ShanghaiTechRGBD dataset
-Download our ShanghaiTechRGBD dataset: [OneDrive](https://dzkd-my.sharepoint.com/:f:/g/personal/dongzelian_onepan_top/Emx65sLijCNOmeif6rbC4yQBfl6QSijGvRbdvfcqiTl_1A?e=slmWOB)
+Download our ShanghaiTechRGBD dataset: [OneDrive](https://yien01-my.sharepoint.com/:f:/g/personal/doubility_z0_tn/EhY4Svr1rRlDi7apZTtpepQBJejNSSYnQk1UNSqxhQ3jqA?e=RdhCtz)
 
 ```
 ShanghaiTechRGBD/
