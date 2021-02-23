@@ -11,8 +11,8 @@ Dongze Lian*, Jing Li*, Jia Zheng, Weixin Luo, Shenghua Gao
 
 # Requirements
 - python: 3.x
-- Pytorch: 0.4+
-- torchvision: 0.2+
+- Pytorch: 1.1+
+- mmdetection: 1.0
 
 # The ShanghaiTechRGBD dataset
 Download our ShanghaiTechRGBD dataset: [OneDrive](https://yien01-my.sharepoint.com/:f:/g/personal/doubility_z0_tn/EhY4Svr1rRlDi7apZTtpepQBJejNSSYnQk1UNSqxhQ3jqA?e=RdhCtz)
