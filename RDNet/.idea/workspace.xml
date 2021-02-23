@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecf09a83-8a7a-4a05-8596-3449443ee8e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_33.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_34.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_351.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_352.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_353.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_354.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_411.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_412.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_413.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_414.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_415.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_416.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_421.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_422.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_423.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_424.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_501.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_502.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_503.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_504.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_511.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_512.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_513.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_514.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_600.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_601.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_602.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_603.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_604.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_605.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_606.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_607.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_608.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_609.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_610.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_611.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_612.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_613.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_614.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_615.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_620.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_621.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_622.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_623.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_624.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_625.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_630.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_631.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_632.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_633.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_634.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_635.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_640.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_641.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_642.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_643.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_644.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_645.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_646.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_647.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_648.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_649.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_650.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_700.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_800.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_801.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_802.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_803.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_804.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_900.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_901.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_902.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_903.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_904.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_905.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_910.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_911.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_912.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_913.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_914.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_915.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_921.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_922.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_923.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_924.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_930.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_931.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_932.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_933.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_934.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_940.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_941.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_942.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_943.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_944.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_945.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_950.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_951.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_952.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_953.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_954.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_960.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_961.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_962.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_963.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_964.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_965.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_966.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_967.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_968.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_969.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_r50_fpn_1x.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_x101_32x4d_fpn_1x.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/retinanet_x101_64x4d_fpn_1x.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eval.sh" beforeDir="false" afterPath="$PROJECT_DIR$/eval.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/apis/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/apis/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/core/anchor/anchor_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/core/anchor/anchor_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/core/anchor/anchor_target.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/core/anchor/anchor_target.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/core/bbox/assign_sampling.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/core/bbox/assign_sampling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/core/bbox/assigners/max_iou_assigner.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/core/bbox/assigners/max_iou_assigner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/core/bbox/geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/core/bbox/geometry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/core/bbox/transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/core/bbox/transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/datasets/RGBD.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/datasets/RGBD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/MANIFEST.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/build/lib.linux-x86_64-3.7/inplace_abn/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/build/lib.linux-x86_64-3.7/inplace_abn/_backend.cpython-37m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/build/lib.linux-x86_64-3.7/inplace_abn/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/build/lib.linux-x86_64-3.7/inplace_abn/abn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/build/lib.linux-x86_64-3.7/inplace_abn/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/build/lib.linux-x86_64-3.7/inplace_abn/group.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/build/temp.linux-x86_64-3.7/src/inplace_abn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/build/temp.linux-x86_64-3.7/src/inplace_abn_cpu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/build/temp.linux-x86_64-3.7/src/inplace_abn_cuda.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/build/temp.linux-x86_64-3.7/src/utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/dist/inplace_abn-1.0.12.dev2+g5b017ac-py3.7-linux-x86_64.egg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/equation.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/include/checks.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/include/cuda_utils.cuh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/include/dispatch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/include/inplace_abn.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/include/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn/_backend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn/_backend.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn/abn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/inplace_abn/group.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/licenses.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/dataset/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/dataset/dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/dataset/sampler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/dataset/transform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/experiments/densenet264_ipabn_lr_256.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/experiments/resnet101_ipabn-sync_lr_512.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/experiments/resnet34_ipabn-sync_lr_512.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/experiments/resnet50_ipabn-sync_lr_512.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/experiments/resnext101_ipabn-sync_lr_256.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/experiments/resnext101_ipabn_lr_512.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/experiments/resnext101_stdbn_lr_256.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/experiments/resnext152_ipabn_lr_256.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/experiments/wider_resnet38_ipabn_lr_256.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/imagenet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/imagenet/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/imagenet/transforms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/imagenet/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/models/densenet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/models/resnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/models/resnext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/models/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/models/wider_resnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/modules/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/modules/deeplab.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/modules/dense.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/modules/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/modules/residual.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/test_imagenet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/test_vistas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/test_vistas_single_gpu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/scripts/train_imagenet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/setup.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/src/inplace_abn.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/src/inplace_abn_cpu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/src/inplace_abn_cuda.cu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/src/inplace_abn_kernels.cuh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/inplace_abn/src/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/models/anchor_heads/anchor_head.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/models/anchor_heads/anchor_head.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/models/anchor_heads/retina_head.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/models/anchor_heads/retina_head.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/models/backbones/resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/models/backbones/resnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/models/backbones/resnext.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/models/backbones/resnext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/models/bbox_heads/bbox_head.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/models/bbox_heads/bbox_head.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/models/detectors/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/models/detectors/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/models/detectors/retinanet.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/models/detectors/retinanet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/models/detectors/rpn.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/models/detectors/rpn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/models/detectors/single_stage.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/models/detectors/single_stage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/models/necks/fpn.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/models/necks/fpn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/ops/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/ops/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/ops/pac/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/ops/pac/pac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/csv_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/csv_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/test_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/test_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/train.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XTC5Q6JTTuZpAUI8bE3CNyrnud" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="retinanet_r101_fpn_1x_RGBD_802" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="counting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/configs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/configs/retinanet_r101_fpn_1x_RGBD_802.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.retinanet_r101_fpn_1x_RGBD_802" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecf09a83-8a7a-4a05-8596-3449443ee8e3" name="Default Changelist" comment="" />
+      <created>1581060513321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581060513321</updated>
+      <workItem from="1581060514473" duration="28544000" />
+      <workItem from="1582971199746" duration="6576000" />
+      <workItem from="1583249949012" duration="16752000" />
+      <workItem from="1584174653597" duration="26598000" />
+      <workItem from="1585221882567" duration="23464000" />
+      <workItem from="1585803360389" duration="41901000" />
+      <workItem from="1588589313274" duration="4195000" />
+      <workItem from="1604559451263" duration="527000" />
+      <workItem from="1604560302276" duration="963000" />
+      <workItem from="1614062177742" duration="2901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
