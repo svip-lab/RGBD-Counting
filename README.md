@@ -50,6 +50,7 @@ bash eval.sh
   year={2021},
   publisher={IEEE}
 }
+
 @InProceedings{Lian_2019_CVPR,
 author = {Lian, Dongze and Li, Jing and Zheng, Jia and Luo, Weixin and Gao, Shenghua},
 title = {Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization},
