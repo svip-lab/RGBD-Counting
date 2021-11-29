@@ -43,6 +43,13 @@ bash eval.sh
 # Citation
 
 ```
+@article{lian2021locating,
+  title={Locating and Counting Heads in Crowds With a Depth Prior},
+  author={Lian, Dongze and Chen, Xianing and Li, Jing and Luo, Weixin and Gao, Shenghua},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2021},
+  publisher={IEEE}
+}
 @InProceedings{Lian_2019_CVPR,
 author = {Lian, Dongze and Li, Jing and Zheng, Jia and Luo, Weixin and Gao, Shenghua},
 title = {Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization},
