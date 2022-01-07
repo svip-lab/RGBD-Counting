@@ -9,6 +9,8 @@ Dongze Lian*, Jing Li*, Jia Zheng, Weixin Luo, Shenghua Gao
  
 (* Equal Contribution)
 
+journal version: [TPAMI] Locating and Counting Heads in Crowds With a Depth Prior [[Paper]](https://ieeexplore.ieee.org/document/9601215/)
+
 # Requirements
 - python: 3.x
 - Pytorch: 1.1+
