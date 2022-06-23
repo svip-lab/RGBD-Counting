@@ -35,10 +35,13 @@ The metric of depth is millimeter. The max covered depth value of depth sensor i
 
 # Usage
 
+```bash
 bash train.sh
+```
 
+```bash
 bash eval.sh
-
+```
 
 # Citation
 
