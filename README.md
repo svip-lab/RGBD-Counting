@@ -5,7 +5,7 @@ PyTorch implementation of our CVPR2019 paper:
 **Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization** [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lian_Density_Map_Regression_Guided_Detection_Network_for_RGB-D_Crowd_Counting_CVPR_2019_paper.pdf)]
 [[poster](images/poster.pdf)]
 
-TPAMI,2021 version:
+TPAMI2021 version:
 
 **Locating and Counting Heads in Crowds With a Depth Prior** [[Paper]](https://ieeexplore.ieee.org/document/9601215/) [[ShanghaitechRGBDSyn]](https://github.com/svip-lab/ShanghaiTechRGBDSyn) [[Depth Completion]](https://github.com/svip-lab/Locating_Counting_with_a_Depth_Prior)
 
